@@ -1,2 +1,2 @@
 # SubHubApp
-Sublet Application for students
+Subletting App for students
